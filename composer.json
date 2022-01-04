@@ -2,7 +2,6 @@
     "name": "zenia9012/viber-bot-php",
     "description": "Php bot interface to work with Viber API",
     "keywords": ["viber", "im", "bot"],
-    "type": "library",
     "license": "MIT",
     "authors": [
         {
